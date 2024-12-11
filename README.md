@@ -8,7 +8,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioAcostaTer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/98357160?v=4" width="220" height="300" alt="profile image" />
+      <img src="https://avatars.githubusercontent.com/u/98357160?v=4" width="460" height="460" alt="profile image" />
     </td>
   </tr>
 </table>
