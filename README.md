@@ -8,7 +8,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioAcostaTer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph" />
     </td>
     <td>
-      <img src="https://scontent-prg1-1.cdninstagram.com/v/t51.29350-15/464269471_3826302060991988_9113647997735149844_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent-prg1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=ClnbrK-loAIQ7kNvgF0Wdt1&_nc_gid=28d80916c2b241c8b20874346059ddce&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzQ4NzI3NTgyODUxNjczMzE2Nw%3D%3D.3-ccb7-5&oh=00_AYB0_zTD6scdrAPg6TOmEu1VMXI_Bv_mFakgjskB0ALnDg&oe=674D2FCB&_nc_sid=7a9f4b" width="220" height="300" alt="profile image" />
+      <img src="https://avatars.githubusercontent.com/u/98357160?v=4" width="220" height="300" alt="profile image" />
     </td>
   </tr>
 </table>
