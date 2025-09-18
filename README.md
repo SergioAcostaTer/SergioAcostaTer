@@ -92,6 +92,7 @@ A distributed system that crawls real estate portals and provides market insight
 </td>
 </tr>
 </table>
+
 ## 📚 Academic Adventures
 
 I'm deep into my Computer Science journey at **Universidad de Las Palmas de Gran Canaria** 🏫, and spent an amazing semester at **Halmstad University** in Sweden 🇸🇪 (yes, it was as cold as you'd expect, but the Northern Lights were worth it!).
