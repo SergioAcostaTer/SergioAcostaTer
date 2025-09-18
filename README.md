@@ -51,12 +51,16 @@ Currently **crafting digital magic** at IKEA (yes, the furniture people!) where 
 
 ## 🌟 Cool Stuff I've Built
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🪙 Bitcoin Price Tracker Pro
 <div align="left">
   <a href="https://github.com/SergioAcostaTer/bitcoin-price-tracker-pro">
-    <img src="https://img.shields.io/badge/Chrome_Extension-1,000+_users-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension"/>
+    <img src="https://img.shields.io/badge/Chrome_Extension-1,000+_users-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension"/>
   </a>
-  <img src="https://img.shields.io/badge/Rating-4.0/5_⭐-FFD700?style=for-the-badge" alt="Rating"/>
+  <img src="https://img.shields.io/badge/Rating-4.0/5_⭐-FFD700?style=flat-square" alt="Rating"/>
 </div>
 
 A sleek Chrome extension that tracks Bitcoin in real-time! Features live charts, price alerts, and portfolio tracking. Built it because I got tired of constantly switching tabs to check crypto prices 📈
@@ -67,10 +71,13 @@ A sleek Chrome extension that tracks Bitcoin in real-time! Features live charts,
 - 🌙 Dark/Light theme toggle
 - 💼 Portfolio tracking
 
+</td>
+<td width="50%">
+
 ### 🏠 Property Price Intelligence Platform
 <div align="left">
   <a href="https://github.com/SergioAcostaTer/property-price-tracker">
-    <img src="https://img.shields.io/badge/Microservices-Architecture-FF6B6B?style=for-the-badge" alt="Microservices"/>
+    <img src="https://img.shields.io/badge/Microservices-Architecture-FF6B6B?style=flat-square" alt="Microservices"/>
   </a>
 </div>
 
@@ -82,6 +89,9 @@ A distributed system that crawls real estate portals and provides market insight
 - 📈 Market trend analysis
 - 🎯 Event-driven architecture with Kafka
 
+</td>
+</tr>
+</table>
 ## 📚 Academic Adventures
 
 I'm deep into my Computer Science journey at **Universidad de Las Palmas de Gran Canaria** 🏫, and spent an amazing semester at **Halmstad University** in Sweden 🇸🇪 (yes, it was as cold as you'd expect, but the Northern Lights were worth it!).
