@@ -115,25 +115,6 @@ A sleek Chrome extension that tracks Bitcoin in real-time! Features live charts,
 
 </div>
 
-<div style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px; background: #f6f8fa;">
-
-### 🏠 Property Price Intelligence Platform
-<div align="left">
-  <a href="https://github.com/SergioAcostaTer/property-price-tracker">
-    <img src="https://img.shields.io/badge/Microservices-Architecture-FF6B6B?style=flat-square" alt="Microservices" style="max-width: 100%; height: auto;"/>
-  </a>
-</div>
-
-A distributed system that crawls real estate portals and provides market insights with ML predictions. Because who doesn't want to know if that apartment is overpriced? 🏡
-
-**What it does:**
-- 🕷️ Automated property data crawling
-- 🤖 ML-powered price predictions
-- 📈 Market trend analysis
-- 🎯 Event-driven architecture with Kafka
-
-</div>
-
 </div>
 
 ## 📚 Academic Adventures
