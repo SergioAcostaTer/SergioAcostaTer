@@ -122,14 +122,3 @@ A sleek Chrome extension that tracks Bitcoin in real-time! Features live charts,
 I'm deep into my Computer Science journey at **Universidad de Las Palmas de Gran Canaria** 🏫, and spent an amazing semester at **Halmstad University** in Sweden 🇸🇪 (yes, it was as cold as you'd expect, but the Northern Lights were worth it!).
 
 My GitHub is packed with university projects covering everything from algorithms to system architecture. Each project is a small victory in understanding how computers really think! 🧠
-
-## 📊 GitHub Activity
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SergioAcostaTer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" style="max-width: 100%; height: auto; min-width: 300px;" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergioAcostaTer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" style="max-width: 100%; height: auto; min-width: 300px;" />
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://streak-stats.demolab.com/?user=SergioAcostaTer&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
-</div>
