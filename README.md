@@ -90,31 +90,6 @@ Currently **crafting digital magic** at IKEA (yes, the furniture people!) where 
 
 </div>
 
-
-## 🌟 Cool Stuff I've Built
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-
-<div style="padding: 20px; border: 1px solid #e1e4e8; border-radius: 8px; background: #f6f8fa;">
-
-### 🪙 Bitcoin Price Tracker Pro
-<div align="left">
-  <a href="https://github.com/SergioAcostaTer/bitcoin-price-tracker-pro">
-    <img src="https://img.shields.io/badge/Chrome_Extension-1,000+_users-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" style="max-width: 100%; height: auto;"/>
-  </a>
-  <img src="https://img.shields.io/badge/Rating-4.0/5_⭐-FFD700?style=flat-square" alt="Rating" style="max-width: 100%; height: auto;"/>
-</div>
-
-A sleek Chrome extension that tracks Bitcoin in real-time! Features live charts, price alerts, and portfolio tracking. Built it because I got tired of constantly switching tabs to check crypto prices 📈
-
-**Cool features:**
-- 🔔 Smart price alerts (no more FOMO!)
-- 📊 Beautiful Chart.js visualizations
-- 🌙 Dark/Light theme toggle
-- 💼 Portfolio tracking
-
-</div>
-
 </div>
 
 ## 📚 Academic Adventures
