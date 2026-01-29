@@ -91,9 +91,3 @@ Currently **crafting digital magic** at IKEA (yes, the furniture people!) where 
 </div>
 
 </div>
-
-## 📚 Academic Adventures
-
-I'm deep into my Computer Science journey at **Universidad de Las Palmas de Gran Canaria** 🏫, and spent an amazing semester at **Halmstad University** in Sweden 🇸🇪 (yes, it was as cold as you'd expect, but the Northern Lights were worth it!).
-
-My GitHub is packed with university projects covering everything from algorithms to system architecture. Each project is a small victory in understanding how computers really think! 🧠
